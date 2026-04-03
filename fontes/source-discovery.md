@@ -1,5 +1,9 @@
 # 🎯 Fontes Descobertas pelo NotebookLM (Source Discovery)
 
+## 🔗 NotebookLM Público
+
+**Link:** https://notebooklm.google.com/notebook/4bc2cdeb-f910-4f4f-9bda-4c3bc375d120
+
 ## ✨ Atualização Importante!
 
 Após carregar os 3 livros base, usei o recurso **Source Discovery** do NotebookLM que encontrou automaticamente **10 fontes complementares** atualizadas!

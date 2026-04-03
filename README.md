@@ -2,8 +2,20 @@
 
 > Desafio de Projeto DIO - Aprendizagem Ativa com NotebookLM
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/seu-usuario/1note)
-[![NotebookLM](https://img.shields.io/badge/NotebookLM-Active-green)](https://notebooklm.google.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/lipesc/miniguia-estudos-notebooklm)
+[![NotebookLM](https://img.shields.io/badge/NotebookLM-Público-green)](https://notebooklm.google.com/notebook/4bc2cdeb-f910-4f4f-9bda-4c3bc375d120)
+
+---
+
+## 🤖 Acesso ao NotebookLM
+
+🔗 **[Visualizar Notebook Público](https://notebooklm.google.com/notebook/4bc2cdeb-f910-4f4f-9bda-4c3bc375d120)**
+
+- 📚 13 fontes carregadas (3 livros base + 10 complementares)
+- 🔍 Source Discovery ativado
+- 👁️ Acesso público (somente visualização)
+
+*Nota: Requer conta Google para acessar*
 
 ---
 
