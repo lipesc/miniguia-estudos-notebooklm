@@ -2,7 +2,7 @@
 
 > Projeto de Aprendizagem Ativa com NotebookLM - Desafio DIO
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/lipesc/miniguia-estudos-notebooklm)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/lipesc/guia-estudos-sap-notebooklm)
 [![NotebookLM](https://img.shields.io/badge/NotebookLM-Público-green)](https://notebooklm.google.com/notebook/4bc2cdeb-f910-4f4f-9bda-4c3bc375d120)
 
 ---
@@ -152,11 +152,12 @@ Rastreamento de mudanças entre o conteúdo dos livros (2023-2024) e a realidade
 ## 📁 Estrutura do Repositório
 
 ```
-miniguia-estudos-notebooklm/
+guia-estudos-sap-notebooklm/
 ├── README.md                          # Visão geral do projeto
 ├── COMO-LINKAR.md                     # Metodologia: NotebookLM ↔ GitHub
 ├── ESTRATEGIA-ATUALIZACAO.md          # Estratégia para conteúdo desatualizado
 ├── COMO-ENTREGAR-DIO.md               # Guia de entrega do desafio
+├── DESCRICAO-ENTREGA-DIO.md           # Descrições personalizadas para DIO
 ├── Entendendo o Desafio.md            # Requisitos do desafio DIO
 ├── fontes/                            # Documentação das fontes
 │   ├── source-discovery.md            # 10 fontes descobertas automaticamente
@@ -254,7 +255,7 @@ Desenvolvedor em formação focado em SAP, Quality Engineering e transformação
 
 **Conecte-se:**
 - GitHub: [@lipesc](https://github.com/lipesc)
-- Projeto: [miniguia-estudos-notebooklm](https://github.com/lipesc/miniguia-estudos-notebooklm)
+- Projeto: [guia-estudos-sap-notebooklm](https://github.com/lipesc/guia-estudos-sap-notebooklm)
 
 ---
 

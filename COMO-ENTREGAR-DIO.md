@@ -37,7 +37,7 @@ git push origin main
 ```
 
 Depois no site do GitHub:
-1. Acesse: https://github.com/[seu-usuario]/1note
+1. Acesse: https://github.com/lipesc/guia-estudos-sap-notebooklm
 2. Clique em **Settings** (⚙️)
 3. Role até o final da página
 4. Em "Danger Zone" → **Change visibility**
@@ -72,7 +72,7 @@ git push -u origin main
 
 Após push bem-sucedido:
 ```
-URL do seu repositório: https://github.com/[seu-usuario]/1note
+URL do seu repositório: https://github.com/lipesc/guia-estudos-sap-notebooklm
 ```
 
 📋 **Copie essa URL!** Você vai precisar dela na DIO.
@@ -84,7 +84,7 @@ URL do seu repositório: https://github.com/[seu-usuario]/1note
 1. **Acesse a plataforma DIO:** https://dio.me/
 2. **Vá para o desafio:** "Aprendizagem Ativa com NotebookLM"
 3. **Clique em:** "Entregar Projeto" ou "Submit Project"
-4. **Cole a URL:** `https://github.com/[seu-usuario]/1note`
+4. **Cole a URL:** `https://github.com/lipesc/guia-estudos-sap-notebooklm`
 5. **Adicione descrição:**
    ```
    Caderno Temático sobre Engenharia de Qualidade e Estratégias de Teste 
@@ -200,7 +200,7 @@ git commit -m "Projeto completo - pronto para entrega DIO"
 git push origin main
 
 # 4. Verificar no navegador
-# Abra: https://github.com/[seu-usuario]/1note
+# Abra: https://github.com/lipesc/guia-estudos-sap-notebooklm
 # Verifique se está público e todos os arquivos estão lá
 ```
 

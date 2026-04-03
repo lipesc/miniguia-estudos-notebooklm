@@ -77,7 +77,7 @@ DIFERENCIAIS:
 • Troubleshooting analítico demonstrando pensamento crítico
 • NotebookLM público para compartilhamento
 
-Repositório: https://github.com/lipesc/miniguia-estudos-notebooklm
+Repositório: https://github.com/lipesc/guia-estudos-sap-notebooklm
 NotebookLM: https://notebooklm.google.com/notebook/4bc2cdeb-f910-4f4f-9bda-4c3bc375d120
 ```
 
